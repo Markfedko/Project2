@@ -1,0 +1,29 @@
+.bot{
+	position: absolute;
+	width: 1440px;
+	height: 75px;
+	background-color: #618FCB;
+}
+.bot2{
+	position: absolute;
+	top: 100px;
+	left: 150px;
+	width: 1200px;
+	height: 25px;
+	background-color: #618FCB;
+}
+.bot3{
+	position: absolute;
+	top: 100px;
+	width: 200px;
+	height: 130px;
+	background-color: #618FCB;
+}
+.bot4{
+	position: absolute;
+	top: 130px;
+	left: 250px;
+	width: 1200px;
+	height: 75px;
+	background-color: #618FCB;
+}
